@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=ccff00&height=180&text=JONGWON's%20github🎾&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=ccff00&height=180&text=JONGWON's%20github🎾&animation=&fontColor=ffffff&fontSize=60" style="pointer-events: none;"/>
 </div>
 <div align= "center"> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"></div> 
